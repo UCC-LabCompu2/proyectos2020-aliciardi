@@ -12,3 +12,6 @@ Supongamos ahora que nos imponemos conocer la velocidad tangencial que debemos i
 ## Tecnologías empleadas
 - HTML
 - CSS
+
+## Link al sitio
+[Velocidad de Satelizacion](https://ucc-labcompu2.github.io/proyectos2020-aliciardi/)
